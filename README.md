@@ -18,7 +18,7 @@ USAGES:
 3. Follow the in-game instructions to play.
 
 
-Author
+Author:
 GOKULAKRISHNAN B
 B.Tech IT
 
