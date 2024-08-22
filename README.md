@@ -15,9 +15,13 @@ FEATURES:
 USAGES:
 1. Compile the code using javac NumberGame.java
 2. Run the game using java NumberGame
-3. Follow the in-game instructions to play
+3. Follow the in-game instructions to play.
+
+
 Author
 GOKULAKRISHNAN B
 B.Tech IT
+
+
 OUTPUT:
 ![numbergame jpg](https://github.com/user-attachments/assets/84952413-d1ef-49c5-b456-996f9734f2cc)
