@@ -1,4 +1,4 @@
-# CodeSoft_NumbereGam
+# CodeSoft_NumbereGame
 NUMBER GAME:
 A simple number guessing game written in Java.
 
