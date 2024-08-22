@@ -20,7 +20,7 @@ USAGES:
 
 Author:
 GOKULAKRISHNAN B
-B.Tech IT
+(B.Tech IT)
 
 
 OUTPUT:
